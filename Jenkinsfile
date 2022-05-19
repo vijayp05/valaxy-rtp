@@ -1,5 +1,5 @@
-def imageName = 'stalin.jfrog.io/default-docker-local/valaxy-rtp'
-def registry  = 'https://stalin.jfrog.io'
+def imageName = 'dpt3demo.jfrog.io/default-docker-local/valaxy-rtp'
+def registry  = 'https://dpt3demo.jfrog.io/'
 def app
 pipeline {
     agent {
