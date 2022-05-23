@@ -1,5 +1,5 @@
 def imageName = 'dpt3demo.jfrog.io/default-docker-local/valaxy-rtp'
-def registry  = 'https://stalin.jfrog.io'
+def registry  = 'https://dpt3demo.jfrog.io/'
 def version   = '1.0.3'
 def app
 pipeline {
